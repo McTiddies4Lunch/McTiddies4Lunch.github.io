@@ -45,6 +45,15 @@ gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into t
 nav_external_links:
   - title: Steam Workshop Collection
     url: https://steamcommunity.com/sharedfiles/filedetails/?id=3009417907
+
+  - title: Tebex Store
+    url: https://tdrp.tebex.io
+
+  - title: Kofi
+    url: https://ko-fi.com/mctiddies4lunch
+
+  - title: Discord
+    url: https://discord.gg/boneyard-creations
     hide_icon: false # set to true to hide the external link icon - defaults to false
 
 callouts_level: loud
