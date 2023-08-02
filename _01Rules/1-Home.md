@@ -42,7 +42,7 @@ Mayor: All laws created must be reasonable. (No immediate KOS, or Jaywalking law
 
 Undercover Police Officer: You may assist in creating drugs to blend in, however you cannot use drugs for profit. You may break minor laws to maintain cover.
 
-Paramedic: Paramedics are not allowed to be private.
+Paramedic: Paramedics are not allowed to be private. And must save anyone, no matter the circumstance (If the person that is down tried to injure you call a cop to you before reviving them)
 
 **Hobos:**
 
