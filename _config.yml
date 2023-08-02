@@ -98,13 +98,13 @@ collections:
      
 just_the_docs:
   collections: 
-   01CapitalPunishment:
+   01Rules:
       name: Rules
       nav_fold: true 
-   02ForlornHope:
+   02GameplayAdditions:
       name: Gameplay Additions
       nav_fold: true   
-   03LostRune:
+   03Donations:
       name: Donations
       nav_fold: true   
   
