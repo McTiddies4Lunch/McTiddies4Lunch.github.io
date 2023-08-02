@@ -28,6 +28,8 @@ You cannot kill people for simply being near a Home Invasion. However if a gover
 
 Anyone who is being kidnapped/mugged may defend themselves. You may kill someone for running away from a kidnapping/mugging. (This does NOT include people who were already moving. They must be aware of your attempt to mug/kidnap them) The maximum you may demand for/from a person is $5,000. You cannot hold someone for more than 10 minutes. You must wait 15 minutes before mugging the same person.
 
+***
+
 **Job Specific Rules**
 
 **Government:**
