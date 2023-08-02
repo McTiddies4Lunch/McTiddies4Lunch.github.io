@@ -1,8 +1,8 @@
 ---
 layout: default
-title: General Rules
+title: General Rules & Job Rules
 nav_order: 1
-description: General Rules
+description: General Rules & Job Rules
 ---
 
 ![smol](https://raw.githubusercontent.com/McTiddies4Lunch/McTiddies4Lunch.github.io/main/assets/tdrpbanner.png)
