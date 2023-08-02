@@ -1,11 +1,3 @@
----
-layout: default
-title: Home
-nav_order: 1
-description: "Main Page."
-permalink: /
-has_toc: true
----
 
 ![bannerl2rv2](https://i.gyazo.com/82f0841cef3fce8ea5c61e505e41d10e.png)
 
