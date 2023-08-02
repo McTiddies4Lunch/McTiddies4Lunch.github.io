@@ -9,6 +9,8 @@ description: Donation Information
 
 **Donation Methods**
 
+***
+
 [Tebex](https://tdrp.tebex.io)
 
 The Tebex store offers set donation amounts in exchange for certain benefits on the server
