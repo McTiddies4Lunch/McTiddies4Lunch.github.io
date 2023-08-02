@@ -1,8 +1,111 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: TDRP
+description: TDRP Garry's Mod Serious RP Server
 theme: just-the-docs
+color_scheme: dark-custom
 
-url: https://just-the-docs.github.io
+url: https://McTiddies4Lunch.github.io
+favicon_ico: 
+
+search_enabled: true
+
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
+
+ # Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Copyright &copy; 2023 Boneyard Creations"
+
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "Discord":
+    - "https://discord.gg/boneyard-creations"  
+  "Kofi":
+    - "ko-fi.com/mctiddies4lunch"
+  "Tebex Store":
+    - "https://tdrp.tebex.io" 
+
+    # Footer "Edit this page on GitHub" link text
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "https://github.com/McTiddies4Lunch/McTiddies4Lunch.github.io" # the github URL for your repo
+gh_edit_branch: "main" # the branch that your docs is served from
+# gh_edit_source: docs # the source that your files originate from
+gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+
+nav_external_links:
+  - title: Steam Workshop Collection
+    url: https://steamcommunity.com/sharedfiles/filedetails/?id=3009417907
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+
+callouts_level: loud
+callouts:
+  highlight:
+    title: Notice
+    color: yellow
+  important:
+    title: Important
+    color: yellow
+  logfile:
+    title: Log Section
+    color: green
+  iniSetting:
+    title: INI Setting
+    color: green
+  alternative:
+    title: Alternative
+    color: green
+  console:
+    title: Console Commands
+    color: green    
+  hint:
+    title: Hint
+    color: green  
+  note:
+    title: Note
+    color: yellow
+  warning:
+    title: Warning
+    color: red
+  NoTitleYellow:
+    color: yellow
+  NoTitleGreen:
+    color: green
+    
+# Define Jekyll collections
+collections:
+  01Rules:
+    permalink: "/:collection/:path/"
+    output: true
+  02GameplayAdditions:
+    permalink: "/:collection/:path/"
+    output: true
+  03Donations:
+    permalink: "/:collection/:path/"
+    output: true
+    
+  
+     
+just_the_docs:
+  collections: 
+   01CapitalPunishment:
+      name: Rules
+      nav_fold: true 
+   02ForlornHope:
+      name: Gameplay Additions
+      nav_fold: true   
+   03LostRune:
+      name: Donations
+      nav_fold: true   
+  
+      
