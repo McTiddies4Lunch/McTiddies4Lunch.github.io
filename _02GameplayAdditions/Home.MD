@@ -24,4 +24,4 @@ description: Police Additions
 
 [Luctus Kevlar](https://luctus.at/darkrp.html)
 
-![Kevlar](https://luctus.at/images/luctus_kevlar.mp4)
+![Kevlar](https://i.gyazo.com/c51a8a3ea5af601ee721e333eb275356.mp4)
