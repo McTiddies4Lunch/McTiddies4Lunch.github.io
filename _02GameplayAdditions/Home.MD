@@ -18,10 +18,14 @@ description: Police Additions
 
 [Luctus Radio](https://luctus.at/darkrp.html)
 
+Luctus radio allows you to communicate with the other officers from anywhere
+
 ![Luctus Radio](https://luctus.at/images/luctus_radio.png)
 
 ***
 
 [Luctus Kevlar](https://luctus.at/darkrp.html)
+
+Animated Kevlar System
 
 ![Kevlar](https://i.gyazo.com/7e48701ee1605e3d74f135f53a95ea23.png)
