@@ -10,4 +10,8 @@ description: Police Additions
 
 # **Police Additions**
 
-PLACEHOLDER
+[Realistic Police - Become an effective police officer](https://www.gmodstore.com/market/view/realistic-police-the-best-realistic-police-script)
+
+![Realpolicedesc](https://i.gyazo.com/9d9e1efe411e5254e1ef40c2d4b915a0.png)
+
+***
