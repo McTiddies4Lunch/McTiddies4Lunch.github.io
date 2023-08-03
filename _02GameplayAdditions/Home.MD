@@ -15,3 +15,13 @@ description: Police Additions
 ![Realpolicedesc](https://i.gyazo.com/9d9e1efe411e5254e1ef40c2d4b915a0.png)
 
 ***
+
+[Luctus Radio](https://luctus.at/darkrp.html)
+
+![Luctus Radio](https://luctus.at/images/luctus_radio.png)
+
+***
+
+[Luctus Kevlar](https://luctus.at/darkrp.html)
+
+![Kevlar](https://luctus.at/images/luctus_kevlar.mp4)
