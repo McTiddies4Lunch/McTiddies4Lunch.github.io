@@ -21,7 +21,7 @@ search:
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Copyright &copy; 2023 Boneyard Creations"
+footer_content: "Copyright &copy; 2023 Tech Dystopia"
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
@@ -62,31 +62,13 @@ callouts:
   important:
     title: Important
     color: yellow
-  logfile:
-    title: Log Section
-    color: green
-  iniSetting:
-    title: INI Setting
-    color: green
-  alternative:
-    title: Alternative
-    color: green
   console:
     title: Console Commands
     color: green    
-  hint:
-    title: Hint
-    color: green  
-  note:
-    title: Note
-    color: yellow
+     note:
   warning:
     title: Warning
     color: red
-  NoTitleYellow:
-    color: yellow
-  NoTitleGreen:
-    color: green
     
 # Define Jekyll collections
 collections:
