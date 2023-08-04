@@ -63,7 +63,7 @@ callouts:
     title: Important
     color: yellow
   console:
-    title: Console Commands
+    title: Tips
     color: green    
      note:
   warning:
