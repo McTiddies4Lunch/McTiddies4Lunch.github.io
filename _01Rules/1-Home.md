@@ -5,7 +5,7 @@ nav_order: 1
 description: General Rules & Job Rules
 ---
 
-![smol](https://github.com/McTiddies4Lunch/McTiddies4Lunch.github.io/blob/main/assets/TDBanner.png)
+![smol](https://github.com/McTiddies4Lunch/McTiddies4Lunch.github.io/blob/main/assets/TDBanner.png?raw=true)
 
 
 **General Rules:**
