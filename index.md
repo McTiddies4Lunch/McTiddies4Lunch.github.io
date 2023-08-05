@@ -7,7 +7,7 @@ permalink: /
 has_toc: true
 ---
 
-![bannerl2rv2](https://github.com/McTiddies4Lunch/McTiddies4Lunch.github.io/blob/main/assets/TDBanner.png)
+![bannerl2rv2](https://github.com/McTiddies4Lunch/McTiddies4Lunch.github.io/blob/main/assets/TDBanner.png?raw=true)
 
 
 ## Welcome to the TDRP Website!
